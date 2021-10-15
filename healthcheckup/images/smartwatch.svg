@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.847" height="21.309" viewBox="0 0 12.847 21.309">
+  <g id="smartwatch" transform="translate(0.5 0.5)">
+    <g id="Group_1906" data-name="Group 1906" transform="translate(0 3.385)">
+      <path id="Path_865" data-name="Path 865" d="M14.731,17.539H7.116A2.118,2.118,0,0,1,5,15.424V6.116A2.118,2.118,0,0,1,7.116,4h7.616a2.118,2.118,0,0,1,2.116,2.116v9.308A2.118,2.118,0,0,1,14.731,17.539ZM7.116,4.846A1.271,1.271,0,0,0,5.846,6.116v9.308a1.271,1.271,0,0,0,1.269,1.269h7.616A1.271,1.271,0,0,0,16,15.424V6.116a1.271,1.271,0,0,0-1.269-1.269Z" transform="translate(-5 -4)" fill="#a7a7a7" stroke="#a7a7a7" stroke-width="1"/>
+    </g>
+    <g id="Group_1907" data-name="Group 1907" transform="translate(5.5 6.347)">
+      <path id="Path_866" data-name="Path 866" d="M14.039,13.847a.425.425,0,0,1-.3-.124l-2.116-2.116a.426.426,0,0,1-.124-.3V7.923a.423.423,0,1,1,.846,0v3.21l1.992,1.992a.423.423,0,0,1-.3.722Z" transform="translate(-11.5 -7.5)" fill="#a7a7a7" stroke="#a7a7a7" stroke-width="1"/>
+    </g>
+    <g id="Group_1908" data-name="Group 1908" transform="translate(1.693 16.076)">
+      <path id="Path_867" data-name="Path 867" d="M13.77,23.231H8.692a.423.423,0,0,1-.4-.274L7.027,19.572a.423.423,0,1,1,.792-.3l1.167,3.111h4.491l1.166-3.111a.419.419,0,0,1,.545-.247.423.423,0,0,1,.247.545l-1.269,3.385a.423.423,0,0,1-.4.274Z" transform="translate(-7 -18.998)" fill="#a7a7a7" stroke="#a7a7a7" stroke-width="1"/>
+    </g>
+    <g id="Group_1909" data-name="Group 1909" transform="translate(1.693 0)">
+      <path id="Path_868" data-name="Path 868" d="M15.039,4.231a.424.424,0,0,1-.4-.274L13.476.846H8.986L7.819,3.957a.423.423,0,0,1-.792-.3L8.3.274A.423.423,0,0,1,8.692,0H13.77a.423.423,0,0,1,.4.274l1.269,3.385a.423.423,0,0,1-.247.545.417.417,0,0,1-.149.027Z" transform="translate(-7 0)" fill="#a7a7a7" stroke="#a7a7a7" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
